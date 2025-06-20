@@ -1,39 +1,72 @@
+<h1 align="center">👋 Prazer! Eu sou o Douglas Batista</h1>
 
-
-### Prazer! Eu me chamo Douglas Batista 🫡
----
-- 📚 Sou graduando em Engenharia de Software na USJT
-- ✉️ Email: dodosilvabatista@gmail.com
 
 
 ---
 
+🎓 Graduando em Engenharia de Software pela **USJT**  
+📫 Contato: **dodosilvabatista@gmail.com**  
+🌐 Portfólio: [portfolio2-roan-two.vercel.app](https://portfolio2-roan-two.vercel.app)  
+📸 Instagram: [@douglinhasga](https://instagram.com/douglinhasga)
 
-
-
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/douglinhasga)
-
-![Dbszin GitHub stats](https://github-readme-stats.vercel.app/api?username=Dbszin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dbszin&exclude_repo=github-readme-stats,anuraghazra.github.io_icons=true&theme=tokyonight)
-
-### Tecnologias do meu dia a dia
 ---
-<div style="display: inline_block"><br/>
 
+## 🚀 Tecnologias do meu dia a dia
 
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
-<img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img align="center" alt="next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
-</div><br/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Dbszin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dbszin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbszin&layout=compact&langs_count=10&theme=tokyonight&exclude_repo=github-readme-stats"/>
+</a>
+
+</div>
+
+---
+
+🧠 Sempre aprendendo mais...
+
+🧹 Aprofundando Clean Code, SOLID e princípios de código sustentável em projetos reais
+
+🚀 Evoluindo em arquitetura backend com Java + Spring Boot e integrações REST robustas
+
+🧪 Aplicando testes, monitoramento e versionamento eficiente para sistemas performáticos
+
+🧰 Refinando habilidades Full Stack com foco em escalabilidade, SEO técnico e automações com Python
+
+📊 Explorando melhores práticas em organização de código, estrutura de repositórios e deploy contínuo
+
+---
+
+## 💼 Links úteis
+
+- 📌 [LinkedIn](https://linkedin.com/in/douglas-batista-295458230)
+- 🔗 [Portfólio](https://portfolio2-roan-two.vercel.app)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dbszin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
