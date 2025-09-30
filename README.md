@@ -19,7 +19,7 @@
 
 ## ✨ Sobre Mim
 
-Desenvolvedor Fullstack com foco principal no ecossistema **React, Next.js, TypeScript, Node.js e Python**, atuando no desenvolvimento e manutenção de sistemas web e desktop.
+Desenvolvedor Fullstack com foco principal no ecossistema **React, PHP, Next.js, TypeScript, Node.js e Python**, atuando no desenvolvimento e manutenção de sistemas web e desktop.
 
 Minha experiência em agências de marketing digital me tornou especialista em criar soluções **escaláveis, responsivas e otimizadas para SEO**.Entre minhas conquistas, destaco o **aumento de 20% nas vendas** de um cliente através da automação de mensagens via WhatsApp e o desenvolvimento de um **aplicativo de receitas com IA**, ambos projetos que demonstram meu foco em entregar resultados.
 
@@ -43,7 +43,7 @@ Sou um profissional **colaborativo, proativo e com alta atenção aos detalhes**
 </div>
 
 ### Nível de Proficiência
-**Avançado:** React, Python, JavaScript, MySql, Next.js, TypeScript, Svelte, Express. 
+**Avançado:** React, PHP, Python, JavaScript, MySql, Next.js, TypeScript, Svelte, Express. 
 
 **Intermediário:** Java, Spring Boot, PostgreSQL, Git, SQL, FIGMA. 
 
