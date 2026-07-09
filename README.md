@@ -144,31 +144,6 @@ _Back-end Developer · 07/2023 – 01/2026_
 
 ---
 
-## 📦 Projetos em Destaque / Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Dbszin/nextledger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dbszin&repo=nextledger&theme=radical" />
-  </a>
-  <a href="https://github.com/Dbszin/url-shortener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dbszin&repo=url-shortener&theme=radical" />
-  </a>
-  <a href="https://github.com/Dbszin/Libra-transcription">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dbszin&repo=Libra-transcription&theme=radical" />
-  </a>
-  <a href="https://github.com/Dbszin/portfolio2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dbszin&repo=portfolio2&theme=radical" />
-  </a>
-  <a href="https://github.com/Dbszin/sanitation-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dbszin&repo=sanitation-project&theme=radical" />
-  </a>
-  <a href="https://github.com/Dbszin/DranuxOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dbszin&repo=DranuxOS&theme=radical" />
-  </a>
-</div>
-
----
-
 ## 📊 Estatísticas / Stats
 
 <div align="center">
