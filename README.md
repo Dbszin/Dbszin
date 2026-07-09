@@ -1,9 +1,9 @@
-<h1 align="center">Olá! Eu sou o Douglas Batista 👋</h1>
+<h1 align="center">Douglas Batista</h1>
 
 <p align="center">
-  <strong>Engenheiro de Software Júnior</strong>
+  <strong>Junior Software Engineer | Full-stack Developer</strong>
   <br>
-  <em>Desenvolvedor Full-stack focado na construção de arquiteturas escaláveis, automação com IA e soluções web de alta performance.</em>
+  <em>Desenvolvedor Fullstack com mais de 2 anos de experiência no desenvolvimento de aplicações web, robôs de automação (RPA) e soluções inteligentes baseadas em IA para otimização de negócios.</em>
 </p>
 
 <p align="center">
@@ -19,48 +19,41 @@
 
 ## ✨ Sobre Mim
 
-Sou um Desenvolvedor Full-stack apaixonado por resolver problemas complexos através de código limpo e fluxos automatizados. Tenho forte atuação com **React, Next.js, Node.js, NestJS e Python**, desenvolvendo desde plataformas corporativas de ponta a ponta até microsserviços integrados a inteligência artificial.
+Desenvolvedor Fullstack com foco principal no ecossistema **React, PHP, Next.js, TypeScript, Node.js e Python**, atuando no desenvolvimento e manutenção de sistemas web e desktop.
+• Geração de eficiência operacional, incluindo o desenvolvimento de um RPA desktop em Electron que reduziu um processo financeiro de 3 horas para 10 segundos, e a automação de mensagens em Python que elevou as vendas em 20%.
+• Especialista em projetar bots de atendimento inteligentes sob arquitetura limpa (State, Strategy, Adapter) e integrar microsserviços de IA/OCR com FastAPI para processamento de documentos e sincronização de dados automatizada com o HubSpot CRM.
+• Desenvolvimento Web Escalável: Ampla bagagem no ecossistema JavaScript (React, Next.js, Node.js, NestJS e TypeScript), atuando na Rankora e na entrega de plataformas corporativas robustas com foco em performance e SEO.
+• Premiado com o 1º lugar no Desafio de Engenharia de Software como desenvolvedor líder do sistema multiplataforma Obrapp, avaliado com nota máxima em arquitetura.
 
-Atualmente, além de atuar em uma consultoria jurídica desenvolvendo automações críticas de validação de documentos, também lidero a **Rankora Tech**, minha própria agência de tecnologia. Tenho ampla vivência na integração de IA (como modelos LLM), construção de fluxos complexos no **n8n** e desenvolvimento ágil utilizando os mais modernos assistentes de código.
-
-Meu foco é sempre unir o aprimoramento técnico com a entrega de valor real — seja otimizando conversões através de integrações via Evolution API, gerenciando migrações complexas de CRM (como Pipefy para HubSpot) ou projetando sistemas multiplataforma.
-
----
-
-## 🚀 Projetos em Destaque
-
-*   🏆 **Obrapp:** Desenvolvedor líder do sistema de gestão e fiscalização de obras multiplataforma, projeto vencedor de desafio de engenharia de software.
-*   🎁 **Amoreco:** Plataforma full-stack para geração de presentes digitais personalizados, construída com sistema de autenticação via tokens JWT e geração dinâmica de QR Codes.
-*   📄 **Microsserviço de Validação Jurídica:** Arquitetura construída em **FastAPI** e Python, integrada a modelos de OCR para processamento e validação automatizada de documentos de identificação.
-*   🤖 **Automações e Integrações:** Criação de bots de WhatsApp para agências de marketing digital (gerando aumento direto em vendas) e fluxos de automação de processos de negócios.
+Sou um profissional **colaborativo, proativo e com alta atenção aos detalhes**, sempre buscando aprender e aplicar as melhores práticas do mercado.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 💻 Principais Competências
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
 </div>
 
 ### Nível de Proficiência
-*   **Avançado:** React, Next.js, Node.js, TypeScript, Python, Tailwind CSS, integrações de APIs RESTful e IA.
-*   **Intermediário:** NestJS, FastAPI, MySQL, PostgreSQL, Git/GitHub, PHP, Svelte, Figma.
-*   **Iniciante:** MongoDB, Java, Spring Boot, Power BI, R, Docker.
+**Avançado:** React, PHP, Python, JavaScript, MySql, Next.js, TypeScript, Svelte, Express. 
+
+**Intermediário:** Java, Spring Boot, PostgreSQL, Git, SQL, FIGMA. 
+
+**Iniciante:** MongoDB, Bash, R, Power Bi. 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/Dbszin">
@@ -72,6 +65,8 @@ Meu foco é sempre unir o aprimoramento técnico com a entrega de valor real —
 ---
 
 ## 🎓 Formação e Certificações
-*   **Engenharia de Software** (Em Progresso) - Universidade São Judas Tadeu (USJT)
-*   **Técnico em Informática** (2021) - Colégio Adélia Camargo Corrêa
-*   **Certificações:** Cloud Fundamentals & Solution Architect (FIAP), Versionamento com Git e GitHub (DIO), Algoritmos e Programação Orientada a Objetos (Ânima).
+**Engenharia de Software** (Em Progresso) - Centro Universitário São Judas Tadeu 
+
+**Técnico de Informática** (2021) - Colégio Adélia Camargo Corrêa 
+
+**Certificações Relevantes:** Cloud Fundamentals & Solution Architect (FIAP), Versionamento com Git e GitHub (DIO), Algoritmos e Programação Orientada a Objetos (Ânima).
